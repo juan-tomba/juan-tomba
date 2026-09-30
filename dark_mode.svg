@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">juan@tomba -————————————————————————————————————————————————</tspan>
 <!-- EDITE: sistemas operacionais -->
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Windows 11, Mint Cinnamon</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">21 years, 10 months, 11 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">21 years, 10 months, 12 days</tspan>
 <!-- EDITE: universidade/empresa -->
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">University of São Paulo (USP)</tspan>
 <!-- EDITE: curso/cargo -->
@@ -70,7 +70,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="350">- GitHub Stats -————————————————————————————————————————————</tspan>
 <!-- NAO EDITE as linhas com id= (repo_data, star_data...): o today.py preenche sozinho -->
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">10</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">88</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">1</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">130</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">5</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">536,131</tspan> ( <tspan class="addColor" id="loc_add">542,788</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">6,657</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">131</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">5</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">537,164</tspan> ( <tspan class="addColor" id="loc_add">543,842</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">6,678</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
