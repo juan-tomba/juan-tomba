@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">juan@tomba -————————————————————————————————————————————————</tspan>
 <!-- EDITE: sistemas operacionais -->
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Windows 11, Mint Cinnamon</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">21 years, 10 months, 12 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">21 years, 10 months, 13 days</tspan>
 <!-- EDITE: universidade/empresa -->
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">University of São Paulo (USP)</tspan>
 <!-- EDITE: curso/cargo -->
